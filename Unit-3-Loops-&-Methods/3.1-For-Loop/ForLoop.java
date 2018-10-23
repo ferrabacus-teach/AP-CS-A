@@ -41,7 +41,7 @@ public class ForLoop {
     //   System.out.println(i + " out of " + limit);
     // }
 
-    for(char a = 0; a <=10000; a++) {
+    for(char a = 0; a <=1000000; a++) {
       System.out.print(a);
     }
   }
